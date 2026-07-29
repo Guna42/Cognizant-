@@ -1,0 +1,8 @@
+# @author Guna Byraju
+# @email gunavardhan779@gmail.com
+# @git https://github.com/Guna42/Cognizant-
+# © 2026 Guna Byraju. All rights reserved.
+
+# Git HOL 2: Ignore .log files and log folders
+*.log
+log/
